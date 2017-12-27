@@ -1,6 +1,6 @@
 # Short Lnk
 
-This is aa link shortener built on Meteor React.
+This is a link shortener built on Meteor React.
 
 ## Author
 
