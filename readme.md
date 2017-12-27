@@ -1,3 +1,7 @@
-Short Lnk
+# Short Lnk
 
-This is an app developed with meteor/React that creates short URL links.
+This is aa link shortener built on Meteor React.
+
+## Author
+
+Mike Sheets
